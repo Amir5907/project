@@ -1,0 +1,9 @@
+{
+    "max_threads": 8,
+    "max_processing": 4,
+    "log_path": "logs",
+    "data_path": "data",
+    "anomalies_threshold": 0.8,
+    "test_servers": 50,
+    "test_logs": 10000
+}

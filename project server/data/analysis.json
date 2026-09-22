@@ -1,0 +1,57 @@
+{
+    "total": 150000,
+    "level": {
+        "INFO": 104764,
+        "WARNING": 30069,
+        "ERROR": 12218,
+        "CRITICAL": 2949
+    },
+    "server": {
+        "server_08": 5000,
+        "server_09": 5000,
+        "server_22": 5000,
+        "server_23": 5000,
+        "server_21": 5000,
+        "server_20": 5000,
+        "server_24": 5000,
+        "server_30": 5000,
+        "server_18": 5000,
+        "server_19": 5000,
+        "server_25": 5000,
+        "server_27": 5000,
+        "server_26": 5000,
+        "server_17": 5000,
+        "server_16": 5000,
+        "server_28": 5000,
+        "server_14": 5000,
+        "server_15": 5000,
+        "server_29": 5000,
+        "server_11": 5000,
+        "server_10": 5000,
+        "server_12": 5000,
+        "server_13": 5000,
+        "server_04": 5000,
+        "server_05": 5000,
+        "server_07": 5000,
+        "server_06": 5000,
+        "server_02": 5000,
+        "server_03": 5000,
+        "server_01": 5000
+    },
+    "date": {
+        "2026-09-11": 21546,
+        "2026-09-09": 7049,
+        "2026-09-10": 21567,
+        "2026-09-13": 21433,
+        "2026-09-14": 21145,
+        "2026-09-16": 14244,
+        "2026-09-15": 21517,
+        "2026-09-12": 21499
+    },
+    "message": {
+        "CPU usage is N": 37614,
+        "RAM usage is N": 37336,
+        "connection timeout": 37466,
+        "service restarted": 37584
+    }
+}
